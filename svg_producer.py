@@ -2,7 +2,7 @@ import io
 import random
 import math
 
-text = """<svg width="500" height="500" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color: black">"""
+text = """<svg width="300" height="300" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color: black">"""
 count = 1000
 
 
